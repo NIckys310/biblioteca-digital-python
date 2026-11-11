@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="919" viewBox="0 0 1280 919">
+<title>Biblioteca digital - Python</title>
+<rect width="1280" height="919" fill="#FFFFFF"/>
+<polyline points="182.0,130.0 182.0,104.0" fill="none" stroke="#404040" stroke-width="1"/>
+<polygon points="182.0,90.0 190.0,104.0 174.0,104.0" fill="#FFFFFF" stroke="#404040"/>
+<polyline points="182.0,590.0 182.0,550.0 182.0,550.0 182.0,524.0" fill="none" stroke="#404040" stroke-width="1"/>
+<polygon points="182.0,510.0 190.0,524.0 174.0,524.0" fill="#FFFFFF" stroke="#404040"/>
+<polyline points="562.5,590.0 562.5,550.0 182.0,550.0 182.0,524.0" fill="none" stroke="#404040" stroke-width="1"/>
+<polygon points="182.0,510.0 190.0,524.0 174.0,524.0" fill="#FFFFFF" stroke="#404040"/>
+<polyline points="939.5,130.0 939.5,95.0 1046.8,95.0 1046.8,104.0" fill="none" stroke="#404040" stroke-width="1"/>
+<polygon points="1046.8,90.0 1054.8,104.0 1038.8,104.0" fill="#FFFFFF" stroke="#404040"/>
+<polyline points="1154.0,130.0 1154.0,95.0 1046.8,95.0 1046.8,104.0" fill="none" stroke="#404040" stroke-width="1"/>
+<polygon points="1046.8,90.0 1054.8,104.0 1038.8,104.0" fill="#FFFFFF" stroke="#404040"/>
+<polyline points="324.0,153.0 861.0,153.0" fill="none" stroke="#404040" stroke-width="1" stroke-dasharray="6,4"/>
+<polyline points="850.0,158.0 861.0,153.0 850.0,148.0" fill="none" stroke="#404040"/>
+<text x="592.5" y="147.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">«raise»</text>
+<polyline points="1154.0,266.0 1154.0,176.0" fill="none" stroke="#404040" stroke-width="1" stroke-dasharray="6,4"/>
+<polyline points="1159.0,187.0 1154.0,176.0 1149.0,187.0" fill="none" stroke="#404040"/>
+<text x="1160.0" y="225.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">«raise»</text>
+<polyline points="861.0,306.0 324.0,306.0" fill="none" stroke="#404040" stroke-width="1" stroke-dasharray="6,4"/>
+<polyline points="335.0,301.0 324.0,306.0 335.0,311.0" fill="none" stroke="#404040"/>
+<text x="592.5" y="300.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">«use»</text>
+<polyline points="921.0,510.0 921.0,578.0" fill="none" stroke="#404040" stroke-width="1"/>
+<polygon points="921.0,488.0 915.0,499.0 921.0,510.0 927.0,499.0" fill="#404040" stroke="#404040"/>
+<text x="929.0" y="524.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">1</text>
+<text x="929.0" y="570.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">0..*</text>
+<text x="961.0" y="537.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#000000">prestamos</text>
+<defs><linearGradient id="g0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFF4"/><stop offset="1" stop-color="#FFFFC4"/></linearGradient></defs>
+<rect x="130.0" y="33" width="110" height="60" fill="#000" opacity="0.12"/>
+<rect x="127.0" y="30" width="110" height="60" fill="url(#g0)" stroke="#A0522D" stroke-width="1"/>
+<text x="182.0" y="48.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">«built-in»</text>
+<text x="182.0" y="63.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="font-weight:bold">ABC</text>
+<line x1="127.0" y1="70" x2="237.0" y2="70" stroke="#A0522D"/>
+<line x1="127.0" y1="80" x2="237.0" y2="80" stroke="#A0522D"/>
+<defs><linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFF4"/><stop offset="1" stop-color="#FFFFC4"/></linearGradient></defs>
+<rect x="43" y="133" width="284" height="380" fill="#000" opacity="0.12"/>
+<rect x="40" y="130" width="284" height="380" fill="url(#g1)" stroke="#A0522D" stroke-width="1"/>
+<text x="182.0" y="148.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">«abstract»</text>
+<text x="182.0" y="163.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="font-weight:bold;font-style:italic">Publicacion</text>
+<line x1="40" y1="170" x2="324" y2="170" stroke="#A0522D"/>
+<text x="50.0" y="187.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="text-decoration:underline">+ANIO_MINIMO : int = 1450</text>
+<text x="50.0" y="203.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="text-decoration:underline">+DIAS_PRESTAMO : int = 14</text>
+<text x="50.0" y="219.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="text-decoration:underline">-_registro : dict[str, type]</text>
+<text x="50.0" y="235.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+id : str</text>
+<text x="50.0" y="251.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+titulo : str</text>
+<text x="50.0" y="267.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+anio : int</text>
+<text x="50.0" y="283.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+editorial : str</text>
+<text x="50.0" y="299.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+categorias : list[str]</text>
+<text x="50.0" y="315.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">-_total : int</text>
+<text x="50.0" y="331.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">-_disponibles : int</text>
+<line x1="40" y1="340" x2="324" y2="340" stroke="#A0522D"/>
+<text x="50.0" y="357.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+__init__(titulo, anio, editorial, **kw)</text>
+<text x="50.0" y="373.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+tipo() : str  {property}</text>
+<text x="50.0" y="389.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+total() : int  {property}</text>
+<text x="50.0" y="405.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+disponibles() : int  {property}</text>
+<text x="50.0" y="421.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+prestar() : None</text>
+<text x="50.0" y="437.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+devolver() : None</text>
+<text x="50.0" y="453.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="font-style:italic">+descripcion() : str</text>
+<text x="50.0" y="469.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="font-style:italic">#_campos_propios() : dict</text>
+<text x="50.0" y="485.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+to_dict() : dict</text>
+<text x="50.0" y="501.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="text-decoration:underline">+from_dict(doc : dict) : Publicacion</text>
+<defs><linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFF4"/><stop offset="1" stop-color="#FFFFC4"/></linearGradient></defs>
+<rect x="23" y="593" width="324" height="174" fill="#000" opacity="0.12"/>
+<rect x="20" y="590" width="324" height="174" fill="url(#g2)" stroke="#A0522D" stroke-width="1"/>
+<text x="182.0" y="608.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="font-weight:bold">Libro</text>
+<line x1="20" y1="616" x2="344" y2="616" stroke="#A0522D"/>
+<text x="30.0" y="633.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+isbn : str</text>
+<text x="30.0" y="649.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+autores : list[str]</text>
+<text x="30.0" y="665.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+paginas : int</text>
+<text x="30.0" y="681.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+genero : str = &quot;General&quot;</text>
+<line x1="20" y1="690" x2="344" y2="690" stroke="#A0522D"/>
+<text x="30.0" y="707.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+__init__(..., isbn, autores, paginas, genero)</text>
+<text x="30.0" y="723.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="text-decoration:underline">-_normalizar_isbn(isbn : str) : str</text>
+<text x="30.0" y="739.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+descripcion() : str</text>
+<text x="30.0" y="755.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">#_campos_propios() : dict</text>
+<defs><linearGradient id="g3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFF4"/><stop offset="1" stop-color="#FFFFC4"/></linearGradient></defs>
+<rect x="387" y="593" width="357" height="190" fill="#000" opacity="0.12"/>
+<rect x="384" y="590" width="357" height="190" fill="url(#g3)" stroke="#A0522D" stroke-width="1"/>
+<text x="562.5" y="608.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="font-weight:bold">Revista</text>
+<line x1="384" y1="616" x2="741" y2="616" stroke="#A0522D"/>
+<text x="394.0" y="633.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="text-decoration:underline">+DIAS_PRESTAMO : int = 7</text>
+<text x="394.0" y="649.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="text-decoration:underline">+PERIODICIDADES : frozenset[str]</text>
+<text x="394.0" y="665.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+issn : str</text>
+<text x="394.0" y="681.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+numero : int</text>
+<text x="394.0" y="697.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+volumen : int</text>
+<text x="394.0" y="713.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+periodicidad : str = &quot;mensual&quot;</text>
+<line x1="384" y1="722" x2="741" y2="722" stroke="#A0522D"/>
+<text x="394.0" y="739.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+__init__(..., issn, numero, volumen, periodicidad)</text>
+<text x="394.0" y="755.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+descripcion() : str</text>
+<text x="394.0" y="771.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">#_campos_propios() : dict</text>
+<defs><linearGradient id="g4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFF4"/><stop offset="1" stop-color="#FFFFC4"/></linearGradient></defs>
+<rect x="994.75" y="33" width="110" height="60" fill="#000" opacity="0.12"/>
+<rect x="991.75" y="30" width="110" height="60" fill="url(#g4)" stroke="#A0522D" stroke-width="1"/>
+<text x="1046.8" y="48.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">«built-in»</text>
+<text x="1046.8" y="63.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="font-weight:bold">Exception</text>
+<line x1="991.75" y1="70" x2="1101.75" y2="70" stroke="#A0522D"/>
+<line x1="991.75" y1="80" x2="1101.75" y2="80" stroke="#A0522D"/>
+<defs><linearGradient id="g5" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFF4"/><stop offset="1" stop-color="#FFFFC4"/></linearGradient></defs>
+<rect x="864" y="133" width="157" height="46" fill="#000" opacity="0.12"/>
+<rect x="861" y="130" width="157" height="46" fill="url(#g5)" stroke="#A0522D" stroke-width="1"/>
+<text x="939.5" y="148.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="font-weight:bold">SinEjemplaresError</text>
+<line x1="861" y1="156" x2="1018" y2="156" stroke="#A0522D"/>
+<line x1="861" y1="166" x2="1018" y2="166" stroke="#A0522D"/>
+<defs><linearGradient id="g6" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFF4"/><stop offset="1" stop-color="#FFFFC4"/></linearGradient></defs>
+<rect x="1071" y="133" width="172" height="46" fill="#000" opacity="0.12"/>
+<rect x="1068" y="130" width="172" height="46" fill="url(#g6)" stroke="#A0522D" stroke-width="1"/>
+<text x="1154.0" y="148.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="font-weight:bold">LimitePrestamosError</text>
+<line x1="1068" y1="156" x2="1240" y2="156" stroke="#A0522D"/>
+<line x1="1068" y1="166" x2="1240" y2="166" stroke="#A0522D"/>
+<defs><linearGradient id="g7" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFF4"/><stop offset="1" stop-color="#FFFFC4"/></linearGradient></defs>
+<rect x="864" y="269" width="377" height="222" fill="#000" opacity="0.12"/>
+<rect x="861" y="266" width="377" height="222" fill="url(#g7)" stroke="#A0522D" stroke-width="1"/>
+<text x="1049.5" y="284.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="font-weight:bold">Usuario</text>
+<line x1="861" y1="292" x2="1238" y2="292" stroke="#A0522D"/>
+<text x="871.0" y="309.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="text-decoration:underline">+LIMITES : dict[str, int]</text>
+<text x="871.0" y="325.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+id : str</text>
+<text x="871.0" y="341.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+nombre : str</text>
+<text x="871.0" y="357.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+email : str</text>
+<text x="871.0" y="373.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+membresia : str = &quot;basica&quot;</text>
+<text x="871.0" y="389.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+prestamos : list[Prestamo]</text>
+<line x1="861" y1="398" x2="1238" y2="398" stroke="#A0522D"/>
+<text x="871.0" y="415.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+__init__(nombre, email, membresia, id)</text>
+<text x="871.0" y="431.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+prestamos_activos() : list[Prestamo]  {property}</text>
+<text x="871.0" y="447.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+solicitar_prestamo(pub : Publicacion, hoy) : Prestamo</text>
+<text x="871.0" y="463.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+devolver(pub : Publicacion) : Prestamo</text>
+<text x="871.0" y="479.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+to_dict() : dict</text>
+<defs><linearGradient id="g8" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFF4"/><stop offset="1" stop-color="#FFFFC4"/></linearGradient></defs>
+<rect x="864" y="581" width="212" height="188" fill="#000" opacity="0.12"/>
+<rect x="861" y="578" width="212" height="188" fill="url(#g8)" stroke="#A0522D" stroke-width="1"/>
+<text x="967.0" y="596.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">«dataclass»</text>
+<text x="967.0" y="611.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="font-weight:bold">Prestamo</text>
+<line x1="861" y1="618" x2="1073" y2="618" stroke="#A0522D"/>
+<text x="871.0" y="635.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+publicacion_id : str</text>
+<text x="871.0" y="651.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+titulo : str</text>
+<text x="871.0" y="667.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+tipo : str</text>
+<text x="871.0" y="683.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+fecha_prestamo : date</text>
+<text x="871.0" y="699.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+fecha_limite : date</text>
+<text x="871.0" y="715.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+devuelto : bool = False</text>
+<line x1="861" y1="724" x2="1073" y2="724" stroke="#A0522D"/>
+<text x="871.0" y="741.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+vencido() : bool  {property}</text>
+<text x="871.0" y="757.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#000000" style="">+to_dict() : dict</text>
+<path d="M20,820 L386,820 L398,832 L398,879 L20,879 Z" fill="#FFFFFF" stroke="#7F7F7F"/>
+<path d="M386,820 L386,832 L398,832" fill="none" stroke="#7F7F7F"/>
+<text x="30" y="839" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#333">Herencia: Libro y Revista reutilizan prestar(), devolver(),</text>
+<text x="30" y="854" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#333">to_dict() y from_dict(); sobrescriben descripcion() y</text>
+<text x="30" y="869" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#333">_campos_propios(). Revista redefine DIAS_PRESTAMO = 7.</text>
+<path d="M861,820 L1161,820 L1173,832 L1173,879 L861,879 Z" fill="#FFFFFF" stroke="#7F7F7F"/>
+<path d="M1161,820 L1161,832 L1173,832" fill="none" stroke="#7F7F7F"/>
+<text x="871" y="839" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#333">Prestamo se embebe dentro de Usuario (igual que</text>
+<text x="871" y="854" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#333">en el documento MongoDB) y guarda publicacion_id</text>
+<text x="871" y="869" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#333">+ una copia del título y del tipo.</text>
+</svg>
